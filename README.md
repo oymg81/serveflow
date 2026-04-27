@@ -21,5 +21,43 @@ This app is inspired by real scheduling needs within church environments, where 
 - **Filtering & Sorting**: Filter volunteers or assignments by ministry or service time. Helps coordinators quickly review schedules.
 - **Validation Logic**: Prevent invalid scheduling actions (e.g., past dates or duplicate assignments). Ensures data integrity and better user experience.
 
+## Milestone 3 Progress
+
+### Features Completed
+
+- ✅ Created GitHub issues for planned features  
+  _(GIF will be added in next milestone once functionality is implemented)_
+
+- ✅ Created GitHub project board  
+  _(GIF will be added in next milestone once functionality is implemented)_
+
+- ✅ Organized issues into workflow  
+  _(GIF will be added in next milestone once functionality is implemented)_
+
+- ✅ Created GitHub milestones  
+  _(GIF will be added in next milestone once functionality is implemented)_
+
+- ✅ Began initial development setup  
+  _(GIF will be added in next milestone once functionality is implemented)_
+
+  ## Demo
+![ServeFlow Demo](./serveflow.gif)
+
+  ## Tech Stack
+- Frontend: React (Vite)
+- Backend: Node.js + Express
+- Database: PostgreSQL
+- Tools: GitHub, VS Code
+
+### Custom Features Planned
+
+- Volunteer assignment status tracking
+- Admin dashboard with filtering and sorting
+
+### Stretch Features Planned
+
+- Email notifications for volunteers
+- Attendance tracking system
+
 ## Team Members
 - Oscar (Añadir a tu compañero aquí)
